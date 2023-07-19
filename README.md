@@ -15,3 +15,8 @@ Các thư viện cần cài đặt(the liberarys need to set up)
 -cần setting antdesign
 -tailwincss
 -sass -sass-loader
+-react-lotti
+-react-moment
+-formik
+link truy cập swatger:"Quang Khải
+https://movienew.cybersoft.edu.vn/swagger/index.html"
